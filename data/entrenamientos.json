@@ -234,5 +234,18 @@
         "colorGrupo": "#35D07F",
         "iconoGrupo": "🏋",
         "idEntrenamiento": 6
+    },
+    {
+        "fecha": "28/09/2026",
+        "grupoMuscular": "Cuerpo completo",
+        "pesoCorporal": 59.0,
+        "duracion": 90,
+        "nombreRutina": "Halterofilia, combinado con hombro y calistenia",
+        "ejercicios": [],
+        "notas": "3x2x1 snatch +  balance sntch + over head snatch\n2x1x2 hang clean+ front squat + clean\n\nRutina hombro \n5 heavy pull up rm 80%\n10 hand stand push up \n10 walking hand \n\nCalistenia\n5 bar muscle up\n3 lineas caminando de manos \n90 GHD",
+        "categoriaNota": "Técnica",
+        "colorGrupo": "#56A8FF",
+        "iconoGrupo": "◎",
+        "idEntrenamiento": 7
     }
 ]
